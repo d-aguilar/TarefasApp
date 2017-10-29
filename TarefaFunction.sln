@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TarefaFunction", "TarefaFunction\TarefaFunction.csproj", "{A1BE5108-258C-4161-A86A-E40D75DFD2AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TarefaFunction", "TarefaFunction\TarefaFunction.csproj", "{A1BE5108-258C-4161-A86A-E40D75DFD2AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
